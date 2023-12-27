@@ -10,3 +10,5 @@ example config
     "watch_speed": 1
 }
 ```
+
+Forked from workframes sniper, you can visit his repo here: https://github.com/workframes/personals-sniper
